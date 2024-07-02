@@ -1,6 +1,6 @@
 # machine-learning
 
-This project is a playground for myself to learning ML
+This project is a playground for myself to learn ML
 
 ## Setup
 
