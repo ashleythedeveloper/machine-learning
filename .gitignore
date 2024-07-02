@@ -13,12 +13,18 @@ env/
 
 # Dataset
 */*/dataset/*
+!*/*/dataset/
+!*/*/dataset/.gitkeep
 
 # Models
 */*/models/*
+!*/*/models/
+!*/*/models/.gitkeep
 
 # TensorBoard logs
 */*/runs/*
+!*/*/runs/
+!*/*/runs/.gitkeep
 
 # IDE-specific files
 .vscode/
