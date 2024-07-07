@@ -23,7 +23,7 @@ git clone https://github.com/ashleythedeveloper/machine-learning.git
 
 1. Navigate to the directory:
    ```
-   cd machine-learning
+   cd machine_learning
    ```
 
 2. Create a virtual environment:
