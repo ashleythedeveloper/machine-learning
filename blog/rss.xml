@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Machine Learning Journey Blog</title>
+        <link>https://ashleythedeveloper.github.io/machine-learning/blog</link>
+        <description>Machine Learning Journey Blog</description>
+        <lastBuildDate>Sun, 07 Jul 2024 07:36:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[index]]></title>
+            <link>https://ashleythedeveloper.github.io/machine-learning/blog/index</link>
+            <guid>https://ashleythedeveloper.github.io/machine-learning/blog/index</guid>
+            <pubDate>Sun, 07 Jul 2024 07:36:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

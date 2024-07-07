@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ashleythedeveloper.github.io/machine-learning/blog</id>
+    <title>Machine Learning Journey Blog</title>
+    <updated>2024-07-07T07:36:42.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ashleythedeveloper.github.io/machine-learning/blog"/>
+    <subtitle>Machine Learning Journey Blog</subtitle>
+    <icon>https://ashleythedeveloper.github.io/machine-learning/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[index]]></title>
+        <id>https://ashleythedeveloper.github.io/machine-learning/blog/index</id>
+        <link href="https://ashleythedeveloper.github.io/machine-learning/blog/index"/>
+        <updated>2024-07-07T07:36:42.000Z</updated>
+    </entry>
+</feed>
