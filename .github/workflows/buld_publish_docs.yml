@@ -15,9 +15,11 @@ jobs:
         with:
           node-version: 20
           cache: yarn
+          cache-dependency-path: documentation/yarn.lock
 
       - name: Install dependencies
         run: cd documentation && yarn install --frozen-lockfile
+        
       - name: Build website
         run: cd documentation && yarn build
         env:
