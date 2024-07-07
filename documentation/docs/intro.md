@@ -2,46 +2,42 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
+Hello, I'm Ashley, a Digital Project Engineering Consultant working at a boutique consulting firm in Canberra, Australia.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Professional Background
+In my professional role, I engage in various projects, predominantly in the realm of digital transformation. This involves modernising legacy systems for governments and industry by leveraging cutting-edge technology to architect and build new systems that enhance efficiency and introduce novel features.
 
-## Getting Started
+# Personal Projects
+During my free time, I typically immerse myself in side projects involving:
+* Robotics and electronics using Raspberry Pis and Arduinos
+* 3D printing and CAD with Fusion 360
+* Developing APIs with Express and Single Page Applications (SPAs) using React and TypeScript
 
-Get started by **creating a new site**.
+# Machine Learning Journey
+Over the past eight months, I've been exploring the world of Machine Learning, particularly focusing on:
+* Single and Multivariate Linear Regression
+* Convolutional Neural Networks
+* Custom Object Detection
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+I've primarily utilised public datasets from Kaggle to understand how different algorithms and architectures function. Once I've grasped the fundamentals, I've applied this knowledge to my own datasets to solve trivial problems. I've found great enjoyment in working on these challenges and learning about Machine Learning.
 
-### What you'll need
+# Learning Approach
+My preferred learning method involves applying newfound knowledge to small projects. This combination of discovery and application has served me well in the past, which is one of the reasons you're reading this now.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+# Motivation for Learning Machine Learning
+Another motivation for my journey into Machine Learning is its rapid advancement, particularly in areas like Large Language Models (LLMs). I believe Machine Learning will play an even greater role in our society in the near future than it already does.
 
-## Generate a new site
+# Purpose of Documentation
+This documentation serves as a tool to help me recall and solidify what I've learnt. I haven't taken this approach in my previous journeys and thought I would give it a go, as I feel writing about new concepts will aid and accelerate my understanding and retention.
 
-Generate a new Docusaurus site using the **classic template**.
+# Transferable Skills
+In approaching this learning process, I'm drawing on skills honed in my day job as a Digital Project Engineering Consultant:
+* Thinking through complex problems
+* Rapidly learning and assimilating new concepts
+* Swiftly developing and validating solutions
 
-The classic template will automatically be added to your project after you run the command:
+These skills - quick learning, critical thinking, and solution validation - are proving invaluable as I navigate the complex field of Machine Learning. By applying this professional approach to my personal learning journey, I aim to gain a comprehensive understanding of Machine Learning while creating interesting projects along the way.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+# Future Plans
+Consequently, I'll be dedicating some of my free time to gaining a deep understanding of Machine Learning. I plan to delve into its various components, aiming to thoroughly comprehend each architecture and algorithm while building cool projects in the process. Throughout this journey, I'll document what I've learnt in my own words and perhaps create a few blog posts along the way.
